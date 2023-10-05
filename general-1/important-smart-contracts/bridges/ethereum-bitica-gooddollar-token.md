@@ -1,0 +1,2 @@
+# Ethereum ↔ Bitica GoodDollar Token
+
